@@ -1,0 +1,10 @@
+.item {
+    display : grid ; 
+    grid-template-columns: 1fr 2fr;
+}
+.herme{
+    font-family:'Hermeneus One', sans-serif;
+}
+.tab{
+    tab-size:2;
+}
